@@ -2,3 +2,27 @@
 
 ---
 
++ [data sparsity](https://www.quora.com/What-is-a-clear-explanation-of-data-sparsity) : If data is meaningful / useful /  not random, you will have regions where data points come together and  cluster, and you will have areas they avoid coming together. One way to think of sparsity is how space is empty (60%), whereas 40% of space is dense, or filled.
+
++ [Cluster analysis](https://en.wikipedia.org/wiki/Cluster_analysis) : **Cluster analysis** or **clustering** is the task of grouping a set of objects in such a way that objects in the same group (called a **cluster**) are more similar (in some sense) to each other than to those in other groups (clusters)
+
++ [TF-IDF](https://fr.wikipedia.org/wiki/TF-IDF) : Le **TF-IDF** (de l'anglais *term frequency-inverse document frequency*) est une méthode de pondération souvent utilisée en [recherche d'information](https://fr.wikipedia.org/wiki/Recherche_d'information) et en particulier dans la [fouille de textes](https://fr.wikipedia.org/wiki/Fouille_de_textes). Cette mesure statistique permet d'évaluer l'importance d'un terme  contenu dans un document, relativement à une collection ou un [corpus](https://fr.wikipedia.org/wiki/Corpus).
+
++ [SVD](https://fr.wikipedia.org/wiki/D%C3%A9composition_en_valeurs_singuli%C3%A8res) : En [mathématiques](https://fr.wikipedia.org/wiki/Mathématiques), le procédé d'[algèbre linéaire](https://fr.wikipedia.org/wiki/Algèbre_linéaire) de **décomposition en [valeurs singulières](https://fr.wikipedia.org/wiki/Décomposition_en_valeurs_singulières#Valeurs_singulières_et_vecteurs_singuliers)** (ou **SVD**, de l'[anglais](https://fr.wikipedia.org/wiki/Anglais) *singular value decomposition*) d'une [matrice](https://fr.wikipedia.org/wiki/Matrice_(mathématiques)) est un outil important de factorisation des matrices rectangulaires réelles ou complexes. Ses applications s'étendent du [traitement du signal](https://fr.wikipedia.org/wiki/Traitement_du_signal) aux [statistiques](https://fr.wikipedia.org/wiki/Statistique), en passant par la [météorologie](https://fr.wikipedia.org/wiki/Météorologie).
+
++ [PCA](https://towardsdatascience.com/principal-component-analysis-for-dimensionality-reduction-115a3d157bad) : **Principal Component Analysis** (**PCA**) is an unsupervised linear transformation technique that is widely used  across different fields, most prominently for feature extraction and  dimensionality reduction
+
++ [LDA](https://fr.wikipedia.org/wiki/Allocation_de_Dirichlet_latente) : Dans le domaine du [traitement automatique des langues](https://fr.wikipedia.org/wiki/Traitement_automatique_des_langues), l’**allocation de Dirichlet latente** (de l’anglais *Latent Dirichlet Allocation*) ou ***LDA*** est un modèle génératif [probabiliste](https://fr.wikipedia.org/wiki/Probabilité) permettant d’expliquer des ensembles d’observations, par le moyen de  groupes non observés, eux-mêmes définis par des similarités de données. In evolutionary biology and bio-medicine, the model is used to detect  the presence of structured genetic variation in a group of individuals
+
++ [ARI](https://fr.wikipedia.org/wiki/Indice_de_Rand) : L'**indice de Rand** est une mesure de similarité entre deux partitions d'un ensemble[1](https://fr.wikipedia.org/wiki/Indice_de_Rand#cite_note-rand71-1). Il est principalement utilisé en [catégorisation automatique](https://fr.wikipedia.org/wiki/Catégorisation_automatique). Son principe est de mesurer la consistance (le taux d'accord) entre deux partitions.
+
++ [AMI](https://en.wikipedia.org/wiki/Adjusted_mutual_information) : In [probability theory](https://en.wikipedia.org/wiki/Probability_theory) and [information theory](https://en.wikipedia.org/wiki/Information_theory), **adjusted mutual information**, a variation of [mutual information](https://en.wikipedia.org/wiki/Mutual_information) may be used for comparing [clusterings](https://en.wikipedia.org/wiki/Cluster_Analysis).[[1\]](https://en.wikipedia.org/wiki/Adjusted_mutual_information#cite_note-vinh-icml09-1) It corrects the effect of agreement solely due to chance between clusterings
+
++ [Binarization](https://deepai.org/machine-learning-glossary-and-terms/binarization) : Binarization is the process of transforming data features of any entity into [vectors](https://deepai.org/machine-learning-glossary-and-terms/vector) of binary numbers to make [classifier](https://deepai.org/machine-learning-glossary-and-terms/classifier) algorithms more efficient. In a simple example, transforming an image’s gray-scale from the 0-255 spectrum to a 0-1 spectrum is binarization.
+
++ [cell-pairwise Jaccard index similarity matrix](https://www.biorxiv.org/content/10.1101/800581v1) : first, we filter pairs of reads which are likely to have a large  alignment, and then we perform computationally intensive alignment  algorithms only on the selected pairs
+
++ [Shannon-Index](https://www.dcode.fr/shannon-index) :  a measure of the entropy that applies to any numerical data. It  measures the frequencies of appearance of the characters, and the more  they are different, the more difficult it will be to predict the content (thus a greater uncertainty, and thus a greater entropy).
+
+  
+
