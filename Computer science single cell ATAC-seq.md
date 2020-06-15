@@ -24,5 +24,7 @@
 
 + [Shannon-Index](https://www.dcode.fr/shannon-index) :  a measure of the entropy that applies to any numerical data. It  measures the frequencies of appearance of the characters, and the more  they are different, the more difficult it will be to predict the content (thus a greater uncertainty, and thus a greater entropy).
 
++ [Diffusion map](https://en.wikipedia.org/wiki/Diffusion_map) : **Diffusion maps** is a [dimensionality reduction](https://en.wikipedia.org/wiki/Dimensionality_reduction) or [feature extraction](https://en.wikipedia.org/wiki/Feature_extraction) algorithm introduced by [ Coifman](https://en.wikipedia.org/wiki/Ronald_Coifman) and Lafon[[1\]](https://en.wikipedia.org/wiki/Diffusion_map#cite_note-PNAS1-1)[[2\]](https://en.wikipedia.org/wiki/Diffusion_map#cite_note-PNAS2-2)[[3\]](https://en.wikipedia.org/wiki/Diffusion_map#cite_note-DifussionMap-3)[[4\]](https://en.wikipedia.org/wiki/Diffusion_map#cite_note-Diffusion-4)  which computes a family of [embeddings](https://en.wikipedia.org/wiki/Embedding) of a data set into Euclidean space (often low-dimensional) whose  coordinates can be computed from the eigenvectors and eigenvalues of a  diffusion operator on the data.
+
   
 
