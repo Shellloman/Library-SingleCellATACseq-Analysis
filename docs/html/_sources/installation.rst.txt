@@ -1,0 +1,18 @@
+Installation
+============
+
+This page is a demo page
+
+pip
+----------
+
+Docker
+-----------
+
+From source
+-----------
+
+Servers mode
+-----------
+
+encore du blabla
